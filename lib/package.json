@@ -1,0 +1,12 @@
+{
+  "name": "bentest_testben",
+  "type": "module",
+  "version": "1.0.1",
+  "description": "test module for async imports",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben McCarty",
+  "license": "ISC"
+}
